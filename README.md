@@ -12,3 +12,6 @@
 * tomcat 环境配置
 
 [Oracle环境配置](http://www.cnblogs.com/crazyMyWay/articles/4371984.html)
+
+# 卸载rpm安装包操作
+[卸载rpm安装包](http://blog.csdn.net/qq_15807167/article/details/72872563)
