@@ -10,3 +10,5 @@
 * java 环境配置
 * Mysql 环境配置
 * tomcat 环境配置
+
+[Oracle环境配置](http://www.cnblogs.com/crazyMyWay/articles/4371984.html)
