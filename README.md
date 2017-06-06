@@ -1,6 +1,14 @@
 # 阿里云Centos6.7 环境搭建
 > 记录阿里云ECS的javaweb开发环境的搭建，分布式等一系列操作。
-   ----
+
+**配置如下**
+
+* Apache Tomcat/8.5.15
+* Oracle1.1.2
+* Nginx
+* JDK1.8
+* 设置了Tomcat和Nginx的启动项
+   ----
    
    
 # 基础环境配置
