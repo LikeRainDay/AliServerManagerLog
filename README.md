@@ -16,6 +16,11 @@
 # 卸载rpm安装包操作
 [卸载rpm安装包](http://blog.csdn.net/qq_15807167/article/details/72872563)
 
+# 阿里云安全组（开放8080端口）
+[开放8080端口](http://blog.csdn.net/swl979623074/article/details/71910308)
 
+
+
+------
 # 更换为阿里提供的镜像
 [镜像配置](https://market.aliyun.com/products/53400005/cmjj014846.html?spm=5176.2020520101.image.selectFromMarketplace.2x4LKn)
