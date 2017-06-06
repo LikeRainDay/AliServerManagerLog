@@ -18,6 +18,7 @@
 * java 环境配置
 * Mysql 环境配置
 * tomcat 环境配置
+[Centos7 tomcat开机自启配置](http://www.028888.net/archives/2017_02_1722.html)
 
 [Oracle环境配置](http://www.cnblogs.com/crazyMyWay/articles/4371984.html)
 
