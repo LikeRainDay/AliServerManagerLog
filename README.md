@@ -36,6 +36,8 @@ yum -y install zlib zlib-devel openssl openssl--devel  
 ```
 
 [Nginx安装前Pre依赖库安装](http://blog.csdn.net/liujihaozhy/article/details/42271253)
+或使用[Prce安装包编译安装](http://jingyan.baidu.com/article/f7ff0bfc6bc0472e26bb13bf.html)
+
 [Nginx阿里云安装配置](http://www.cnblogs.com/nokiaguy/p/4703429.html)
 
 ------
