@@ -39,7 +39,7 @@ yum -y install zlib zlib-devel openssl openssl--devel  
 或使用[Prce安装包编译安装](http://jingyan.baidu.com/article/f7ff0bfc6bc0472e26bb13bf.html)
 
 [Nginx阿里云安装配置](http://www.cnblogs.com/nokiaguy/p/4703429.html)
-
+[Nginx设置开机自启](http://www.jianshu.com/p/b5fa86d54685)
 ------
 # 更换为阿里提供的镜像
 [镜像配置](https://market.aliyun.com/products/53400005/cmjj014846.html?spm=5176.2020520101.image.selectFromMarketplace.2x4LKn)
