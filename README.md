@@ -29,6 +29,12 @@
 [开放8080端口](http://blog.csdn.net/swl979623074/article/details/71910308)
 
 # Nginx阿里云配置
+```
+// 进行安装OpenSSl和Zlib的库
+yum -y install zlib zlib-devel openssl openssl--devel  
+
+```
+
 [Nginx安装前Pre依赖库安装](http://blog.csdn.net/liujihaozhy/article/details/42271253)
 [Nginx阿里云安装配置](http://www.cnblogs.com/nokiaguy/p/4703429.html)
 
