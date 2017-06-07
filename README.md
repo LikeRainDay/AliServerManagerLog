@@ -43,3 +43,4 @@ yum -y install zlib zlib-devel openssl openssl--devel  
 ------
 # 更换为阿里提供的镜像
 [镜像配置](https://market.aliyun.com/products/53400005/cmjj014846.html?spm=5176.2020520101.image.selectFromMarketplace.2x4LKn)
+[目前使用的镜像配置](https://market.aliyun.com/products/53400005/cmjj015046.html?spm=5176.2020520101.image.selectFromMarketplace.2O3xKI)
