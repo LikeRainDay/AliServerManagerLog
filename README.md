@@ -28,7 +28,8 @@
 # 阿里云安全组（开放8080端口）
 [开放8080端口](http://blog.csdn.net/swl979623074/article/details/71910308)
 
-
+# Nginx阿里云配置
+[Nginx阿里云安装配置](http://www.cnblogs.com/nokiaguy/p/4703429.html)
 
 ------
 # 更换为阿里提供的镜像
