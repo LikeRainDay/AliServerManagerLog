@@ -40,6 +40,11 @@ yum -y install zlib zlib-devel openssl openssl--devel  
 
 [Nginx阿里云安装配置](http://www.cnblogs.com/nokiaguy/p/4703429.html)
 [Nginx设置开机自启](http://www.jianshu.com/p/b5fa86d54685)
+
+# MySQl配置
+
+[设置远程访问](http://www.cnblogs.com/xyzdw/archive/2011/08/11/2135227.html)
+
 ------
 # 更换为阿里提供的镜像
 [镜像配置](https://market.aliyun.com/products/53400005/cmjj014846.html?spm=5176.2020520101.image.selectFromMarketplace.2x4LKn)
